@@ -2,37 +2,45 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Scanner;
+import java.util.Random;
     public class milestone3 {
         public static HashMap<String, String> abbe = new HashMap<>();
         public static String abbev[][];
         public static void main(String[] args) {
             try {
-                Scanner sc=new Scanner(System.in);
-                String twitter=sc.nextLine();
+
                 long startTime;
                 long endTime;
                 long finalt;
+                for (int i = 0; i < 100; i++) {
+                    String dummyInput = generateLargeInput(1000); // Smaller input for warm-up
+                    arraydataset();
+                    twitter(dummyInput);
+                    abbe = new HashMap<>();
+                    dataset();
+                    arraytwitter(dummyInput);
+                }
                 dataset();
+                arraydataset();
+                String largeInput = generateLargeInput(1000); 
                 long totaltimeh=0;
                 long totaltimea=0;
-                for(int i=0;i<10;i++){
+                for(int i=0;i<50;i++){
                 startTime=System.nanoTime();
-                dataset();
-                twitter(twitter);
+                twitter(largeInput);
                 endTime=System.nanoTime();
                 finalt=endTime-startTime;
                 totaltimeh+=finalt;
                 }
-                System.out.println("Execute Time for hashmap: "+totaltimeh/10);
-                for(int i=0;i<10;i++){
+                System.out.println("Execute Time for hashmap: "+totaltimeh/50);
+                for(int i=0;i<50;i++){
                 startTime=System.nanoTime();
-                arraydataset();
-                arraytwitter(twitter);
+                arraytwitter(largeInput);
                 endTime=System.nanoTime();
                 finalt=endTime-startTime;
                 totaltimea+=finalt;
                 }
-                System.out.println("Execute Time for array: "+totaltimea/10);
+                System.out.println("Execute Time for array: "+totaltimea/50);
 
             } catch (FileNotFoundException e) {
                 System.err.println("File not found: " + e.getMessage());
@@ -49,7 +57,7 @@ import java.util.Scanner;
                 abbe.put(parts[0], parts[1]);
             }
         }
-        public static void twitter(String twitter){
+        public static String twitter(String twitter){
             twitter = twitter.replaceAll("[\\pP‘'“”]", "");
             StringBuilder sb = new StringBuilder();
             String twit[]=twitter.split(" ");
@@ -64,7 +72,7 @@ import java.util.Scanner;
                     newSentence = sb.toString().trim();
                     
             }
-            System.out.println(newSentence);
+            return newSentence;
         }
         public static void arraydataset() throws FileNotFoundException {
             File file = new File("/Users/xuximin/Desktop/320/dataset.txt");
@@ -90,7 +98,7 @@ import java.util.Scanner;
                 countline+=1;
             }
         }
-        public static void arraytwitter(String twitter){
+        public static String arraytwitter(String twitter){
             twitter = twitter.replaceAll("[\\pP‘'“”]", "");
             StringBuilder sb = new StringBuilder();
             String twit[]=twitter.split(" ");
@@ -114,9 +122,22 @@ import java.util.Scanner;
                 }
                 newSentence = sb.toString().trim();
                 }
-                System.out.println(newSentence);
+                return newSentence;
               
                     
             }
-           
+            public static String generateLargeInput(int n) {
+                Random random = new Random();
+                StringBuilder input = new StringBuilder();
+        
+                for (int i = 0; i < n; i++) {
+                    if (i > 0 && i % 10 == 0) {
+                        input.append(' '); 
+                    } else {
+                        input.append((char) (random.nextInt(26) + 'a'));
+                    }
+                }
+        
+                return input.toString();
+            }
         }
