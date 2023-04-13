@@ -13,7 +13,6 @@ import java.util.Scanner;
                 long endTime;
                 long finalt;
                 dataset();
-                arraydataset();
                 long totaltimeh=0;
                 long totaltimea=0;
                 for(int i=0;i<10;i++){
@@ -41,7 +40,7 @@ import java.util.Scanner;
         }
     
         public static void dataset() throws FileNotFoundException {
-            File file = new File("/Users/xuximin/Desktop/milestone3/dataset.txt");
+            File file = new File("/Users/xuximin/Desktop/320/dataset.txt");
             Scanner input = new Scanner(file);
     
             while (input.hasNextLine()) {
@@ -68,7 +67,7 @@ import java.util.Scanner;
             System.out.println(newSentence);
         }
         public static void arraydataset() throws FileNotFoundException {
-            File file = new File("/Users/xuximin/Desktop/milestone3/dataset.txt");
+            File file = new File("/Users/xuximin/Desktop/320/dataset.txt");
             Scanner input = new Scanner(file);
             int countword=0;
             int countline=0;
