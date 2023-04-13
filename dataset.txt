@@ -1,0 +1,415 @@
+ASAP	As Soon As Possible
+FYI	For Your Information
+ETA	Estimated Time of Arrival
+DIY	Do It Yourself
+RSVP	Répondez s'il vous plaît (French for "Please respond")
+ATM	Automated Teller Machine
+FAQ	Frequently Asked Questions
+CEO	Chief Executive Officer
+CTO	Chief Technology Officer
+CFO	Chief Financial Officer
+HR	Human Resources
+IT	Information Technology
+PR	Public Relations
+QA	Quality Assurance
+R&D	Research and Development
+US	United States
+UK	United Kingdom
+EU	European Union
+A/C	Air Conditioning
+A.D.	Anno Domini (in the year of our Lord)
+a.m.	Ante Meridiem (before noon)
+A/V	Audio/Visual
+ADR	Alternative Dispute Resolution
+AIDS	Acquired Immune Deficiency Syndrome
+AMA	American Medical Association
+ASAP	As Soon As Possible
+ATM	Automated Teller Machine
+ATV	All-Terrain Vehicle
+AWOL	Absent Without Leave
+B.C.	Before Christ
+B2B	Business to Business
+B2C	Business to Consumer
+BA	Bachelor of Arts
+BBQ	Barbecue
+BFF	Best Friends Forever
+BIOS	Basic Input/Output System
+BMX	Bicycle Motocross
+BOGO	Buy One Get One
+BPA	Bisphenol A
+BPO	Business Process Outsourcing
+BPM	Beats Per Minute
+BSc	Bachelor of Science
+BTU	British Thermal Unit
+C/O	Care Of
+CA	Chartered Accountant
+CAD	Computer-Aided Design
+CEO	Chief Executive Officer
+CFO	Chief Financial Officer
+CGI	Computer Generated Imagery
+CIA	Central Intelligence Agency
+CIO	Chief Information Officer
+COO	Chief Operating Officer
+CPU	Central Processing Unit
+CPR	Cardiopulmonary Resuscitation
+CRM	Customer Relationship Management
+CTO	Chief Technology Officer
+CVS	Convenience, Value, and Service
+D.I.Y.	Do It Yourself
+DOD	Department of Defense
+DUI	Driving Under the Influence
+E.O.D.	End Of Day
+E.O.M.	End Of Month
+E.O.Y.	End Of Year
+E.T.A.	Estimated Time of Arrival
+EBITDA	Earnings Before Interest, Taxes, Depreciation, and Amortization
+EEG	Electroencephalogram
+EMF	Electromotive Force
+EMS	Emergency Medical Services
+EPA	Environmental Protection Agency
+EPC	Engineering, Procurement, and Construction
+ERP	Enterprise Resource Planning
+ETF	Exchange-Traded Fund
+FAQ	Frequently Asked Questions
+FBI	Federal Bureau of Investigation
+FCC	Federal Communications Commission
+FDA	Food and Drug Administration
+FEMA	Federal Emergency Management Agency
+FIFA	Fédération Internationale de Football Association
+FOB	Free On Board
+FOMO	Fear Of Missing Out
+FPS	Frames Per Second
+FTP	File Transfer Protocol
+FYI	For Your Information
+GDP	Gross Domestic Product
+GIS	Geographic Information System
+GPS	Global Positioning System
+GUI	Graphical User Interface
+H.R.	Human Resources
+HTML	HyperText Markup Language
+HTTP	HyperText Transfer Protocol
+HVAC	Heating, Ventilation, and Air Conditioning
+I.T.	Information Technology
+IBM	International Business Machines Corporation
+ICU	Intensive Care Unit
+IEEE	Institute of Electrical and Electronics Engineers
+IETF	Internet Engineering Task Force
+IFRS	International Financial Reporting Standards
+IMAX	Image Maximum
+IMF	International Monetary Fund
+IMO	In My Opinion
+IPO	Initial Public Offering
+IQ	Intelligence Quotient
+ISBN	International Standard Book Number
+ISP	Internet Service Provider
+JPEG	Joint Photographic Experts Group
+LAN	Local Area Network
+LCD	Liquid Crystal Display
+LGBT	Lesbian, Gay, Bisexual, and Transgender
+LLC	Limited Liability Company
+LTE	Long-Term Evolution
+M&A	Mergers and Acquisitions
+MBA	Master of Business Administration
+MDF	Medium Density Fiberboard
+MRI	Magnetic Resonance Imaging
+NASA	National Aeronautics and Space Administration
+NATO	North Atlantic Treaty Organization
+NBA	National Basketball Association
+NCAA	National Collegiate Athletic Association
+NFL	National Football League
+NHL	National Hockey League
+NGO	Non-Governmental Organization
+OCD	Obsessive Compulsive Disorder
+OEM	Original Equipment Manufacturer
+OPEC	Organization of the Petroleum Exporting Countries
+P.C.	Personal Computer
+P/E	Price-to-Earnings ratio
+PDF	Portable Document Format
+PMS	Pre-Menstrual Syndrome
+P&L	Profit and Loss
+PTSD	Post-Traumatic Stress Disorder
+QA	Quality Assurance
+Q&A	Question and Answer
+R&D	Research and Development
+RFID	Radio Frequency Identification
+RFP	Request for Proposal
+ROI	Return on Investment
+RPG	Role-Playing Game
+SaaS	Software as a Service
+SEO	Search Engine Optimization
+SKU	Stock Keeping Unit
+SMS	Short Message Service
+SNAFU	Situation Normal: All Fucked Up
+SOP	Standard Operating Procedure
+SWAT	Special Weapons and Tactics
+TCP/IP	Transmission Control Protocol/Internet Protocol
+TLA	Three-Letter Acronym
+TSA	Transportation Security Administration
+UFO	Unidentified Flying Object
+UK	United Kingdom
+UN	United Nations
+USB	Universal Serial Bus
+USDA	United States Department of Agriculture
+USMC	United States Marine Corps
+USPS	United States Postal Service
+VAT	Value-Added Tax
+VPN	Virtual Private Network
+W.C.	Water Closet
+WHO	World Health Organization
+WIFI	Wireless Fidelity
+WYSIWYG	What You See Is What You Get
+XML	eXtensible Markup Language
+YOLO	You Only Live Once
+YTD	Year-to-Date
+ZIP	Zone Improvement Plan
+AAA	American Automobile Association
+ADHD	Attention Deficit Hyperactivity Disorder
+AI	Artificial Intelligence
+AIDS	Acquired Immune Deficiency Syndrome
+AMA	American Medical Association
+AMEX	American Stock Exchange
+ANSI	American National Standards Institute
+AOL	America Online
+ASCII	American Standard Code for Information Interchange
+ASP	Active Server Pages
+ATM	Automated Teller Machine
+AVI	Audio Video Interleave
+BAE	Before Anyone Else
+BCC	Blind Carbon Copy
+BCD	Binary Coded Decimal
+BIOS	Basic Input/Output System
+BIT	Binary Digit
+BMW	Bayerische Motoren Werke (Bavarian Motor Works)
+BPM	Business Process Management
+BPO	Business Process Outsourcing
+CAD	Computer-Aided Design
+CAM	Computer-Aided Manufacturing
+CAPTCHA	Completely Automated Public Turing test to tell Computers and Humans Apart
+CBT	Computer-Based Training
+CCTV	Closed-Circuit Television
+CD	Compact Disc
+CEO	Chief Executive Officer
+CERN	European Organization for Nuclear Research
+CGI	Computer-Generated Imagery
+CIO	Chief Information Officer
+CISC	Complex Instruction Set Computing
+CMS	Content Management System
+COBOL	Common Business Oriented Language
+CPM	Cost Per Mille
+CPU	Central Processing Unit
+CRM	Customer Relationship Management
+CSS	Cascading Style Sheets
+CSV	Comma-Separated Values
+CT	Computed Tomography
+CTR	Click-Through Rate
+CUPS	Common Unix Printing System
+CVS	Concurrent Versions System
+DARPA	Defense Advanced Research Projects Agency
+DAT	Digital Audio Tape
+DBA	Doing Business As
+DC	Direct Current
+DDS	Direct Digital Synthesis
+DHCP	Dynamic Host Configuration Protocol
+DLL	Dynamic Link Library
+DM	Direct Message
+DNS	Domain Name System
+DOS	Disk Operating System
+DTP	Desktop Publishing
+DVD	Digital Video Disc
+DVI	Digital Visual Interface
+ECG	Electrocardiogram
+ECM	Enterprise Content Management
+EDM	Electronic Dance Music
+EEG	Electroencephalogram
+EKG	Electrocardiogram
+EMC	Electromagnetic Compatibility
+EMS	Emergency Medical Services
+EPUB	Electronic Publication
+ERP	Enterprise Resource Planning
+ESRI	Environmental Systems Research Institute
+FAQ	Frequently Asked Questions
+FAT	File Allocation Table
+FAX	Facsimile
+FBI	Federal Bureau of Investigation
+FDI	Foreign Direct Investment
+FLOPS	Floating Point Operations Per Second
+FM	Frequency Modulation
+FTP	File Transfer Protocol
+GIF	Graphics Interchange Format
+GPS	Global Positioning System
+GUI	Graphical User Interface
+HDMI	High-Definition Multimedia Interface
+HDD	Hard Disk Drive
+HDL	Hardware Description Language
+HTML	Hypertext Markup Language
+HTTP	Hypertext Transfer Protocol
+IBM	International Business Machines
+ICMP	Internet Control Message Protocol
+IDE	Integrated Development Environment
+IEEE	Institute of Electrical and Electronics Engineers
+IETF	Internet Engineering Task Force
+IIS	Internet Information Services
+IM	Instant Message
+IP	Internet Protocol
+IPA	International Phonetic Alphabet
+IPO	Initial Public Offering
+ISP	Internet Service Provider
+ISV	Independent Software Vendor
+IT	Information Technology
+J2EE	Java 2 Enterprise Edition
+J2ME	Java 2 Micro Edition
+J2SE	Java 2 Standard Edition
+JAR	Java Archive
+JSP	Java Server Pages
+KB	Kilobyte
+LAN	Local Area Network
+LCD	Liquid Crystal Display
+LED	Light Emitting Diode
+LIFO	Last-In, First-Out
+LISP	List Processing
+LLC	Limited Liability Company
+LLC	Limited Liability Corporation
+LOB	Line Of Business
+LRU	Least Recently Used
+MAC	Media Access Control
+MAN	Metropolitan Area Network
+MBA	Master of Business Administration
+MBR	Master Boot Record
+MCU	Microcontroller Unit
+MDM	Mobile Device Management
+MIMO	Multiple-Input Multiple-Output
+MIPS	Millions of Instructions Per Second
+MLM	Multi-Level Marketing
+MMORPG	Massively Multiplayer Online Role-Playing Game
+MPEG	Moving Picture Experts Group
+MS	Microsoft
+MS-DOS	Microsoft Disk Operating System
+MSRP	Manufacturer's Suggested Retail Price
+NAS	Network-Attached Storage
+NAT	Network Address Translation
+NAV	Net Asset Value
+NC	Numerical Control
+NDA	Non-Disclosure Agreement
+NFC	Near Field Communication
+NIST	National Institute of Standards and Technology
+NTFS	New Technology File System
+OCR	Optical Character Recognition
+OEM	Original Equipment Manufacturer
+OSI	Open Systems Interconnection
+OS	Operating System
+PaaS	Platform as a Service
+PC	Personal Computer
+PDF	Portable Document Format
+PDU	Protocol Data Unit
+PGA	Professional Golfers' Association
+PHP	Hypertext Preprocessor
+PIM	Personal Information Manager
+PLC	Programmable Logic Controller
+PNG	Portable Network Graphics
+POP	Point Of Presence
+POS	Point Of Sale
+PPC	Pay-Per-Click
+PPP	Point-to-Point Protocol
+PPT	PowerPoint
+PR	Public Relations
+RAID	Redundant Array of Independent Disks
+RAM	Random Access Memory
+RDBMS	Relational Database Management System
+RFID	Radio Frequency Identification
+RGB	Red, Green, Blue
+ROI	Return On Investment
+ROM	Read-Only Memory
+RPC	Remote Procedure Call
+SaaS	Software as a Service
+SAN	Storage Area Network
+SATA	Serial ATA
+SCSI	Small Computer System Interface
+SD	Secure Digital
+SEO	Search Engine Optimization
+SFTP	Secure File Transfer Protocol
+SMTP	Simple Mail Transfer Protocol
+SNR	Signal-to-Noise Ratio
+SQL	Structured Query Language
+SSD	Solid State Drive
+SSL	Secure Sockets Layer
+SVG	Scalable Vector Graphics
+TCP	Transmission Control Protocol
+TCO	Total Cost of Ownership
+TDD	Test-Driven Development
+TFT	Thin-Film Transistor
+TLS	Transport Layer Security
+TPM	Trusted Platform Module
+URL	Uniform Resource Locator
+USB	Universal Serial Bus
+UPS	Uninterruptible Power Supply
+URI	Uniform Resource Identifier
+UTC	Coordinated Universal Time
+VLAN	Virtual Local Area Network
+VM	Virtual Machine
+VPN	Virtual Private Network
+VR	Virtual Reality
+WAN	Wide Area Network
+WAP	Wireless Application Protocol
+WCDMA	Wideband Code Division Multiple Access
+WEP	Wired Equivalent Privacy
+WLAN	Wireless Local Area Network
+WPA	Wi-Fi Protected Access
+WYSIWYG	What You See Is What You Get
+XHTML	Extensible Hypertext Markup Language
+XML	Extensible Markup Language
+XSL	Extensible Stylesheet Language
+XSLT	Extensible Stylesheet Language Transformations
+Y2K	Year 2000
+ZIF	Zero Insertion Force
+ZIP	Zone Improvement Plan
+ZPL	Zebra Programming Language
+ZV Port	Zoomed Video Port
+A/G	Adjutant General
+ACA	Affordable Care Act
+ACL	Access Control List
+ACR	Annual Confidential Report
+AD	Anno Domini
+ADC	Analog-to-Digital Converter
+ADSL	Asymmetric Digital Subscriber Line
+AES	Advanced Encryption Standard
+AFK	Away From Keyboard
+AGP	Accelerated Graphics Port
+AI	Artificial Intelligence
+AIM	AOL Instant Messenger
+AJAX	Asynchronous JavaScript and XML
+AM	Ante Meridiem
+AMD	Advanced Micro Devices
+AMI	American Megatrends Incorporated
+AMP	Accelerated Mobile Pages
+ANSI	American National Standards Institute
+API	Application Programming Interface
+APK	Android Application Package
+APM	Advanced Power Management
+APP	Application
+ASCII	American Standard Code for Information Interchange
+ASP	Active Server Pages
+ASR	Automatic Speech Recognition
+ATA	Advanced Technology Attachment
+ATM	Asynchronous Transfer Mode
+AVC	Advanced Video Coding
+AVX	Advanced Vector Extensions
+AWS	Amazon Web Services
+B2B	Business-to-Business
+B2C	Business-to-Consumer
+BCD	Binary-Coded Decimal
+BIOS	Basic Input/Output System
+BLOB	Binary Large Object
+BOM	Byte Order Mark
+BPS	Bits Per Second
+BRB	Be Right Back
+BSD	Berkeley Software Distribution
+BT	Bluetooth
+BTO	Build-To-Order
+CAD	Computer-Aided Design
+CAM	Computer-Aided Manufacturing
+CAPM	Capital Asset Pricing Model
+CASE	Computer-Aided Software Engineering
+CAT	Computer-Aided Translation
+CC	Carbon Copy
+CD-R	Compact Disc Recordable
+CD-ROM	Compact Disc Read-Only Memory
