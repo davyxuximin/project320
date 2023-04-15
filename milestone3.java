@@ -22,7 +22,7 @@ import java.util.Random;
                 }
                 dataset();
                 arraydataset();
-                String largeInput = generateLargeInput(1000); 
+                String largeInput = generateLargeInput(10000); 
                 long totaltimeh=0;
                 long totaltimea=0;
                 for(int i=0;i<50;i++){
